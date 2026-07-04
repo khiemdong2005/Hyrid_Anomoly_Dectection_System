@@ -1,0 +1,2 @@
+total_days,total_anomalies,p_value_bootstrap,market_overlap,market_adjusted_anomalies,market_comment,note,sensitivity_mean_%,sensitivity_range_%
+561,92,1.0,,,No index.csv provided – skipped market comparison,Lower p-value (<0.05) → model anomalies unlikely to occur by chance.,4.52,1.60–8.56

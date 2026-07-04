@@ -1,2 +1,0 @@
-total_days,total_anomalies,p_value_bootstrap,market_overlap,market_adjusted_anomalies,market_comment,note
-1132,69,0.0,,,No index.csv provided – skipped market comparison,Lower p-value (<0.05) → model anomalies unlikely to occur by chance.
