@@ -301,18 +301,6 @@ The main notebook produced the following results for the LKNCY experiment:
 
 The anomalies may reflect temporary volatility, corporate events, speculative activity, or potential market irregularities. They are intended to prioritize periods for manual review rather than prove misconduct.
 
-### Project Evaluation Summary
-
-The project report compares the hybrid ensemble with individual detection approaches over 1,260 trading sessions.
-
-| Model | Precision | Recall | F1-score | ROC-AUC |
-|---|---:|---:|---:|---:|
-| Isolation Forest | 0.587 | 0.607 | 0.597 | 0.955 |
-| Z-score Baseline | 0.562 | 0.885 | 0.688 | 0.974 |
-| Hybrid Ensemble | **0.700** | 0.803 | **0.748** | **0.983** |
-
-> **Evaluation note:** These are project-level evaluation results. The repository does not include independently verified real-world manipulation labels; therefore, these metrics should not be interpreted as definitive deployment performance.
-
 ### Computational Efficiency
 
 | Metric | Result |
